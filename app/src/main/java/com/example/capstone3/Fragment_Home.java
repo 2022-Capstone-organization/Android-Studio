@@ -11,7 +11,7 @@ import android.view.ViewGroup;
 
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 
-public class Fragment_Plus extends Fragment {
+public class Fragment_Home extends Fragment {
 
     BottomNavigationView bottomNavigationView;
     /**
@@ -23,6 +23,6 @@ public class Fragment_Plus extends Fragment {
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
-        return inflater.inflate(R.layout.fragment_plus,container,false);
+        return inflater.inflate(R.layout.fragment_home,container,false);
     }
 }
