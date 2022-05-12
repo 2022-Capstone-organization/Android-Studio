@@ -3,9 +3,25 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/gkpar/AndroidStudioProjects/Capstone3/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.146" />
+        <entry key="..\:/Users/gkpar/AndroidStudioProjects/Capstone3/app/src/main/res/drawable/ic_baseline_add_box_24.xml" value="0.146" />
+        <entry key="..\:/Users/gkpar/AndroidStudioProjects/Capstone3/app/src/main/res/drawable/ic_baseline_camera_alt_24.xml" value="0.2805" />
+        <entry key="..\:/Users/gkpar/AndroidStudioProjects/Capstone3/app/src/main/res/drawable/ic_baseline_collections_24.xml" value="0.2805" />
+        <entry key="..\:/Users/gkpar/AndroidStudioProjects/Capstone3/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.2805" />
+        <entry key="..\:/Users/gkpar/AndroidStudioProjects/Capstone3/app/src/main/res/drawable/ic_baseline_image_24.xml" value="0.2805" />
+        <entry key="..\:/Users/gkpar/AndroidStudioProjects/Capstone3/app/src/main/res/drawable/ic_baseline_image_search_24.xml" value="0.146" />
+        <entry key="..\:/Users/gkpar/AndroidStudioProjects/Capstone3/app/src/main/res/drawable/ic_baseline_menu_24.xml" value="0.146" />
+        <entry key="..\:/Users/gkpar/AndroidStudioProjects/Capstone3/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.146" />
+        <entry key="..\:/Users/gkpar/AndroidStudioProjects/Capstone3/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.2805" />
+        <entry key="..\:/Users/gkpar/AndroidStudioProjects/Capstone3/app/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.146" />
+        <entry key="..\:/Users/gkpar/AndroidStudioProjects/Capstone3/app/src/main/res/drawable/ic_baseline_shopping_cart_24.xml" value="0.146" />
+        <entry key="..\:/Users/gkpar/AndroidStudioProjects/Capstone3/app/src/main/res/drawable/ic_launcher_background.xml" value="0.146" />
         <entry key="..\:/Users/gkpar/AndroidStudioProjects/Capstone3/app/src/main/res/layout/activity_drawer.xml" value="0.23097826086956522" />
         <entry key="..\:/Users/gkpar/AndroidStudioProjects/Capstone3/app/src/main/res/layout/activity_fragment.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/gkpar/AndroidStudioProjects/Capstone3/app/src/main/res/layout/activity_image_upload.xml" value="0.38645833333333335" />
         <entry key="..\:/Users/gkpar/AndroidStudioProjects/Capstone3/app/src/main/res/layout/activity_main.xml" value="0.23097826086956522" />
+        <entry key="..\:/Users/gkpar/AndroidStudioProjects/Capstone3/app/src/main/res/layout/activity_select_and_edit.xml" value="0.1879432624113475" />
+        <entry key="..\:/Users/gkpar/AndroidStudioProjects/Capstone3/app/src/main/res/layout/fragment__personal.xml" value="0.1879432624113475" />
         <entry key="..\:/Users/gkpar/AndroidStudioProjects/Capstone3/app/src/main/res/layout/fragment__search.xml" value="0.358695652173913" />
         <entry key="..\:/Users/gkpar/AndroidStudioProjects/Capstone3/app/src/main/res/layout/fragment_home.xml" value="0.33" />
         <entry key="..\:/Users/gkpar/AndroidStudioProjects/Capstone3/app/src/main/res/layout/fragment_plus.xml" value="0.33" />

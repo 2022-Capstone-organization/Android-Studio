@@ -11,19 +11,20 @@ import android.view.ViewGroup;
 
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 
-public class Fragment_Search extends Fragment {
+public class Fragment_Personal extends Fragment {
 
     BottomNavigationView bottomNavigationView;
-    /**
+
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-    }**/
+
+    }
 
     @Nullable
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
-        return inflater.inflate(R.layout.fragment_search,container,false);
+        return inflater.inflate(R.layout.fragment_personal, container, false);
     }
 }

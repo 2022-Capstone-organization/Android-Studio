@@ -14,11 +14,12 @@ import com.google.android.material.bottomnavigation.BottomNavigationView;
 public class Fragment_Home extends Fragment {
 
     BottomNavigationView bottomNavigationView;
-    /**
+
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-    }**/
+    }
+
     @Nullable
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
